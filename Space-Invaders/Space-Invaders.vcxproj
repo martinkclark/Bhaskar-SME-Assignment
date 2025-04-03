@@ -14,7 +14,7 @@
       <Platform>x64</Platform>asdfasdf
     </ProjectConfiguration>
     <ProjectConfiguration Include="Release|x64">asdfasdf
-      <Configuration>Release</Configuration>
+      <Configuration>Release</Configuration>asdfasdf
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
