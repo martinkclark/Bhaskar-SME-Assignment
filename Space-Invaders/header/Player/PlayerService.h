@@ -18,7 +18,7 @@ namespace Player
 		void render();
 
 		void increaseScore(int val);
-		void decreaseScore(int val);
+		void decreaseScore(int valasdfasdfasdf
 		void increaseEnemiesKilled(int val);
 		
 		void enableShield();
