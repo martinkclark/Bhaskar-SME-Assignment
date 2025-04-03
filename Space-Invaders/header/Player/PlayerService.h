@@ -13,7 +13,7 @@ namespace Player
 		PlayerService();
 		virtual ~PlayerService();
 
-		void initialize();
+		void initialize();asdfasdf
 		void update();
 		void render();
 
