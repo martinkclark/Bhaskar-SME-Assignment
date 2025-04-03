@@ -9,7 +9,7 @@ namespace Player
 	private:
 		PlayerController* player_controller;
 
-	public:
+	public:asdfasdfasdf
 		PlayerService();
 		virtual ~PlayerService();
 
