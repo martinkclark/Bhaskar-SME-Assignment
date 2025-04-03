@@ -15,7 +15,8 @@
     </ProjectConfiguration>
     <ProjectConfiguration Include="Release|x64">asdfasdf
       <Configuration>Release</Configuration>asdfasdf
-      <Platform>x64</Platform>
+      <Platform>x64</Platform>asdfasdf
+
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
