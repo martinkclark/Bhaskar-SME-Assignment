@@ -9,22 +9,22 @@ namespace Player
 	private:
 		PlayerController* player_controller;
 
-	public:
+	public:asdfasdfasdf
 		PlayerService();
 		virtual ~PlayerService();
 
-		void initialize();
+		void initialize();asdfasdf
 		void update();
 		void render();
 
 		void increaseScore(int val);
-		void decreaseScore(int val);
+		void decreaseScore(int valasdfasdfasdf
 		void increaseEnemiesKilled(int val);
 		
 		void enableShield();
 		void enableRapidFire();
 		void enableTrippleLaser();
-
+asdfasdfd
 		void reset();
 	};
 }
